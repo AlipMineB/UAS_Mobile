@@ -758,7 +758,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-Membuat file fragment dengan cara klik kanan pada MainActivity.java lalu pilih dan klik fragment, setelah itu pilih dan klik fragment (Blank), setelah itu beri nama ActionFragment, ComedyFragment, RomanceFragment. Untuk file fragment sudah sekaligus dengan file layout xml nya (code berada pada bagian res layout)
+Membuat file fragment dengan cara klik kanan pada MainActivity.java lalu pilih dan klik fragment, setelah itu pilih dan klik fragment (Blank), setelah itu beri nama ActionFragment, ComedyFragment, RomanceFragment. Untuk file fragment sudah sekaligus dengan file layout xml nya
 
 # Layout Main
 <?xml version="1.0" encoding="utf-8"?>
